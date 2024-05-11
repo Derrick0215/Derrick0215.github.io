@@ -1,6 +1,6 @@
 # Hello World
 
-This is my home page! My name is Derrick Segovia and I am a student at [Cal State Fullerton] (http://www.fullerton.edu/)
+This is my home page! My name is Derrick Segovia and I am a student at [Cal State Fullerton](http://www.fullerton.edu/)
 and My major is Electrical Engineering
 
 ## Computer Science Projects
